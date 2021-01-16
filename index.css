@@ -1,0 +1,58 @@
+body
+{  
+    font-size: 22px;
+}
+
+.main
+{
+    border: 1px solid #1B5299;
+    border-radius: 15px;
+    background-color: #1B5299;
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 400px;
+    margin-top: 100px;
+}
+.bottom-main
+{
+    margin-top: 100px;
+    margin-right: 150px;
+}
+.leftContent
+{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
+.rightContent
+{
+    
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    margin-top: 45px;
+}
+.bottom-main{
+    margin-left: -350px;
+}
+.buttons
+{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 40px;
+}
+.bottom-label
+{
+    display: flex;
+    flex-direction: row;
+    width: 480px;
+    margin-top: 20px;
+}
+.bottomLabels
+{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 80px;  
+}
